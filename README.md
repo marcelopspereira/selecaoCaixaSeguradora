@@ -3,7 +3,7 @@
 =====================
 #### O Desafio
 
-Desenvolva uma aplicação que leia o json fornecido (simulando uma requisição a uma API) e para cada registro crie um novo card. Você pode usar libraries para lidar com o request (ex. pacotes npm ou bower), mas o resto da aplicação deve ser feita em javascript puro (Vanilla). Avaliaremos apenas a parte de aplicação, html e css não serão avalidados.
+Desenvolva uma aplicação em javascript puro que leia o json fornecido (simulando uma requisição a uma API) e para cada registro crie um novo card. Você pode usar libraries para lidar com o request (ex. pacotes npm ou bower), mas lembrando que o resto da aplicação deve ser feita em javascript puro (Vanilla). Avaliaremos apenas a parte de aplicação, html e css não serão avalidados.
 
 A aplicação deve gerar uma tela com uma listagem de cards para o usuário.
 
